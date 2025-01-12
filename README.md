@@ -1,0 +1,1 @@
+A simple console-based Java application for managing university courses, students, and lectors. This project demonstrates the use of object-oriented programming concepts, custom exceptions, and command-line interaction.
